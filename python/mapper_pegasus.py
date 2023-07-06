@@ -64,5 +64,5 @@ tTKMapper1.ReEmbedMapper = 1
 tTKMapper1.SelectMatrixWithRegexp = 1
 tTKMapper1.DistanceMatrixRegexp = 'Dist.*'
 tTKMapper1.LowerDimension = '2D'
-
+#getoutput() de ttkMapper
 SaveData("OutputMapperPegasus.csv", tTKMapper1)
